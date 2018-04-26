@@ -26,4 +26,4 @@ Les fichiers du projet sont les suivants :
 
 - `Data` : contient l'ensemble des datasets utilisés.
 - `doc` : contient la documentation complémentaire de la plateforme Open Data du STIF.
-- `Rapport.ipynb` : notebook jupyter décrivant notre approche pour ce projet.
+- `Rapport.ipynb` : notebook jupyter décrivant notre approche pour ce projet. /!\ Certains traitements au sein du notebook sont assez longs à éxécuter.
